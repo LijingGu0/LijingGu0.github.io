@@ -13,7 +13,7 @@ Personal Information
 - Brain and Mind research institute, Sichuan Normal University, Chengdu, China
 - Phone: +86 15617305267
 - Email: 15617305267@163.com
-- Homepage:  [https://guanghuizhang0328.github.io/](https://guanghuizhang0328.github.io/)
+- Homepage:  [https://LijingGu0.github.io/](https://LijingGu0.github.io/)
 
 Education
 ======
