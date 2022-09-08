@@ -17,7 +17,7 @@ Personal Information
 
 Education
 ======
-* **Sichuan Normal University , Brain and Mind research institute **<br>M.E. Basic Psychology (2020.09-2023.06)<br>Supervisors:Associate Prof.  [Chaoxiong Ye](https://ibps.sicnu.edu.cn/p/16/?StId=st_app_news_i_x637252170803740604) 
+* **Sichuan Normal University , Brain and Mind research institute**<br>M.E. Basic Psychology (2020.09-2023.06)<br>Supervisors:Associate Prof.  [Chaoxiong Ye](https://ibps.sicnu.edu.cn/p/16/?StId=st_app_news_i_x637252170803740604) 
 
 * **Pingdingshan University, School of Economics and Management**<br>B.E. in marketing major (2016.09~2020.06)
 
