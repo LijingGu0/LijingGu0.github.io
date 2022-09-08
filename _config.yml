@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage|Guanghui Zhang  "
+title                    : "Homepage|Lijing Guo"
 title_separator          : "-"
-name                     : &name "Guanghui Zhang"
+name                     : &name "Lijing Guo"
 description              : &description "personal description"
-url                      : https://guanghuizhang0328.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://LijingGu0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "guanghuizhang0328/guanghuizhang0328.github.io"
+repository               : "LijingGu0/LijingGu0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanghui Zhang|张光辉"
-  avatar           : "zhangguanghui_profile.png"
-  bio              : "zhang.guanghui@foxmail.com"
-  location         : "Jyväskylä, Finland"
+  name             : "Lijing Guo|郭利静"
+  avatar           : "https://avatars.githubusercontent.com/u/112932261?s=400&u=b49d54b1e6bf6c099d5832d2f2ef848a63b8241a&v=4"
+  bio              : "15617305267@163.com"
+  location         : "Sichuan normal university Chengdu"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PVNJrzAAAAAJ&hl=en"
-  email            : "zhang.guanghui@foxmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Zhang_Guanghui"
+  email            : "15617305267@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Lijing-Guo-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : #""
   foursquare       :
-  github           : "guanghuizhang0328"
+  github           : "LijingGu0.github.io"
   google_plus      :
   keybase          :
   instagram        : #"guanghui.zhang"
