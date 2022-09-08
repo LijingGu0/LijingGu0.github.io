@@ -18,5 +18,5 @@ Research Interests
 ======
 1. EEG/ERP/FMRI 
 2. Visual working memory 
-3. memorability 
-4. contralateral delay activity(CDA)
+3. Memorability 
+4. Contralateral delay activity(CDA)
