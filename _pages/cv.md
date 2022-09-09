@@ -24,4 +24,4 @@ Education
 CV
 ======
 
-[PDF](../_http://LijingGu0.github.io/files/LijingGuo_CV.pdf).
+[Download PDF here](http://LijingGu0.github.io/files/LijingGuo_CV.pdf)
