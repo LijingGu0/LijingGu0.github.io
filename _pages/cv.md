@@ -24,4 +24,4 @@ Education
 CV
 ======
 
-[PDF](../_publications/CV_Guanghui Zhang_July_2022.pdf).
+[PDF](../_http://LijingGu0.github.io/files/LijingGuo_CV.pdf).
