@@ -25,4 +25,4 @@ Research Interests
 
 Honours and awards
 ======
-- Recevied the 2022 Elsevier/Vision Research Travel Awards. 
+- Received the 2022 Elsevier/Vision Research Travel Awards. 
