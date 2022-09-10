@@ -25,4 +25,4 @@ Research Interests
 
 Honours and awards
 ======
-- Recevied the travel grant in the 2022 meeting of Vision Sciences Society. 
+- Recevied the 2022 Elsevier/Vision Research Travel Awards. 
