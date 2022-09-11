@@ -21,7 +21,7 @@ Research Interests
 -  Contralateral delay activity(CDA)
 -  Visual working memory 
 -  Memorability 
--  emotional state
+-  Emotional state
 
 Honours and awards
 ======
