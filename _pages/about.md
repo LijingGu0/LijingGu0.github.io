@@ -12,7 +12,7 @@ The higher i got, the more amazed i was by the view.
 
 Academia
 ======
-- I will receive my master's degree （2020.09-2023.06）from [Brain and Mind research institute of Sichuan Normal University](https://ibps.sicnu.edu.cn/).      
+- I will receive my master's degree （2020.09-2023.06）from [Institute of Brain and Psychological Sciences, Sichuan Normal University](https://ibps.sicnu.edu.cn/).      
 - I obtained my bachelor's degree （2016.09-2020.06） from [Pingdingshan University](https://www.pdsu.edu.cn/).
 
 Research Interests
