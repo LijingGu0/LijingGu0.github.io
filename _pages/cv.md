@@ -17,9 +17,9 @@ Personal Information
 
 Education
 ======
-* **Sichuan Normal University , Brain and Mind research institute**<br>M.E. Basic Psychology (2020.09-2023.06)
+* **Institute of Brain and Psychological Sciences, Sichuan Normal University**<br>M.E. Basic Psychology (2020.09-2023.06)
 
-* **Pingdingshan University, School of Economics and Management**<br>B.E. in marketing major (2016.09~2020.06)
+* **Institute of Economics and Management, Pingdingshan University**<br>B.E. in marketing major (2016.09~2020.06)
 
 CV
 ======
