@@ -10,7 +10,7 @@ Journal and conference papers
 ------
 
 * **GUO Li-jing**, YE Chao-Xiong, LONG Fang-fang, LIU Xin-yang, XIE Wei-Zhen. The Effect of Negative Emotional States on Short-term Memory Representations. Chinese Journal of Applied Psychology, 2023, 29(4): 352-364. 
-* [Download PDF here](http://LijingGu0.github.io/files/paper7.pdf)
+* [Download PDF here](http://LijingGu0.github.io/files/paper16.pdf)
 * Liu, R.,(co-first author), **Guo, L**.,(co-first author), Sun, H.-J., Parviainen, T., Zhou, Z., Cheng, Y., Liu, Q., & Ye, C. (2023). Sustained attention required for effective dimension-based retro-cue benefits in visual working memory. Journal of Vision, 23(5):13.
 * [Download PDF here](http://LijingGu0.github.io/files/paper6.pdf)
 * Liu, R., **Guo, L**., Cheng, Y., Li, X., & Ye, C. (2022). The Representation Unit of Visual Working Memory. Advances in Psychology 12(03):868-875. 
