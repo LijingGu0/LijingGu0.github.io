@@ -10,17 +10,22 @@ Journal and conference papers
 ------
 * **First-Authored Publications**
   
-* **GUO Li-jing**, YE Chao-Xiong, LONG Fang-fang, LIU Xin-yang, XIE Wei-Zhen. The Effect of Negative Emotional States on Short-term Memory Representations. Chinese Journal of Applied Psychology, 2023, 29(4): 352-364. 
-* [Download PDF here](http://LijingGu0.github.io/files/paper16.pdf)
-* Liu, R.,(co-first author), **Guo, L**.,(co-first author), Sun, H.-J., Parviainen, T., Zhou, Z., Cheng, Y., Liu, Q., & Ye, C. (2023). Sustained attention required for effective dimension-based retro-cue benefits in visual working memory. Journal of Vision, 23(5):13.
-* [Download PDF here](http://LijingGu0.github.io/files/paper6.pdf)
+* **Guo, L**.,  Dan, N., Liu, P., Zhang,L.,and Ye, C. (2025)Color First, Space Next, Orientation Last: A Temporal Comparison of Retro-Cue Effects in Visual Working Memory.  memory & cognition
+* [Download PDF here](http://LijingGu0.github.io/files/paper26.pdf)
+* **Guo, L**., Park, H.,Ren, G., Liu, P., Liu, R., Dan, N., and Ye, C. (2025) All identical objects reduce memory load at the late maintenance stage in working memory.  Scientific Reports 15(1):16700
+* [Download PDF here](http://LijingGu0.github.io/files/paper25.pdf)
 * Liu R., (co-first author), **Guo, L**.,(co-first author), Lin, X, Nie, D, Astikainen, P andYe, C (2024) Dimension-based retro-cuebenefit in working memory does not requireunfocused dimension removal.Front. Psychol. 15:1433405 
 * [Download PDF here](http://LijingGu0.github.io/files/paper24.pdf)
-* **Guo, L**., Liu, R.,Dan, N., and Ye, C. The Influence of Identical Objects on Visual Working Memory Capacity: Electrophysiological Evidence. Scientific Reports (under review).
-* [Download PDF here](http://LijingGu0.github.io/files/paper25.pdf)
+* Liu, R.,(co-first author), **Guo, L**.,(co-first author), Sun, H.-J., Parviainen, T., Zhou, Z., Cheng, Y., Liu, Q., & Ye, C. (2023). Sustained attention required for effective dimension-based retro-cue benefits in visual working memory. Journal of Vision, 23(5):13.
+* [Download PDF here](http://LijingGu0.github.io/files/paper6.pdf)
+* **GUO Li-jing**, YE Chao-Xiong, LONG Fang-fang, LIU Xin-yang, XIE Wei-Zhen. The Effect of Negative Emotional States on Short-term Memory Representations. Chinese Journal of Applied Psychology, 2023, 29(4): 352-364. 
+* [Download PDF here](http://LijingGu0.github.io/files/paper16.pdf)
+
 
 * **Co-Authored Publications**
 
+*  Liu, Q., **Guo, L**., Wang, J., Nie, D., & Ye, C. (2024). The modulatory mechanism of spatial distance on the role of internal attention in unattended working memory representations.Visual Cognition, 33(1).
+* [Download PDF here](http://LijingGu0.github.io/files/paper27.pdf)
 *  Ye, C., **Guo, L**., Wang, N., Liu, Q., & Xie, W. (2024). Perceptual encoding benefit of visual memorability on visual memory formation. Cognition, 248, 105810.
 * [Download PDF here](http://LijingGu0.github.io/files/paper20.pdf)
 *  Ye, C., Liu, R., **Guo, L**., Zhao, G., & Liu, Q. (2024). A negative emotional state impairs individuals' ability to filter distractors from working memory: an ERP study. Cognitive, affective & behavioral neuroscience, 24(3), 491–504. 
